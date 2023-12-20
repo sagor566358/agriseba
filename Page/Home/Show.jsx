@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import '../Home/Show.css'
 import  logo  from '../Home/shopping-cart.png';
 
-const Show = ({ car }) => {
+const Show = ({ car}) => {
     return (
         <div className='mainshow'>
             <div className='container'>
