@@ -1,0 +1,24 @@
+.label-text{
+
+    color:rgb(236, 11, 202);
+    font-size: 25px;;
+}
+.buyermain{
+
+    justify-content: center;
+    text-align: center;
+
+}
+.button{
+    background-color: rgb(106, 106, 237);
+    color: white;
+    height: 50px;
+    width: 80px;
+    border-radius: 20%;
+}
+.buyer{
+    background-image: url('Buyer.jpg');
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

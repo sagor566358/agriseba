@@ -1,0 +1,34 @@
+.want{
+    justify-content: center;
+    text-align: center;
+    color: rgb(226, 150, 43);
+}
+.Hiresboxmain{
+
+    height: 700px;
+    background-image: url("hiresx.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.request{
+
+    background-color: rgb(94, 94, 233);
+    color: white;
+    height: 40px;
+    width: 90px;
+    border-radius: 20%;
+}
+.place{
+
+    justify-content: center;
+    text-align: center;
+}
+.Address{
+
+color: rgb(15, 15, 5);
+font-size: 20px;
+}
+input{
+    height: 30px;
+    width: 150px;
+}

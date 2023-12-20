@@ -1,0 +1,86 @@
+
+header{
+	width: 100vw;
+	min-height: 100vh;
+	background: #34495e;
+	font-size: 1.2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.tanhamain{
+
+	background-image: url('Payment2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+.containers{
+
+	
+   
+	
+	justify-content:center;
+   text-align: center;
+	align-items: flex-start;
+	padding: 0.5rem 1.5rem;
+}
+
+
+
+
+
+
+#zip{
+	display: flex;
+	margin-top: 0.5rem;
+}
+
+
+.tanha{
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+input[type="submit"]:hover{
+	background: #2c3e50;
+}
+.sdp{
+
+    color: rgb(59, 114, 121);
+    font-size: 25px;
+}
+.proces{
+
+    background-color:rgb(31, 31, 169);
+    height: 50px;
+    width: 150px;
+    color:white;
+}
+.payments{
+    height: 50px;
+    width: 80px;
+    justify-content: center;
+   margin-left: 600px;
+}
+
+    .masters{
+        height: 50px;
+        width: 80px;
+    }
+.mmmm{
+
+    display: flex;
+}
+
+@media only screen and (max-width: 770px){
+	.container{
+		flex-direction: column;
+	}
+	body{
+		overflow-x: hidden;
+	}
+}
+

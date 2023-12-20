@@ -1,0 +1,43 @@
+.sellermain{
+    background-image: url('Sellers.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.ssss{
+    color: rgb(235, 151, 23);
+    font-size: 30px;
+}
+.special{
+    color: rgb(26, 41, 207);
+    font-size: 25px;
+}
+.Sellers{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: center;
+    margin-left: 70px;
+}
+.buys{
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(129, 248, 18);
+}
+.Deletes{
+
+    height: 50px;
+    width: 80px;
+    background-color: rgb(57, 57, 170);
+    color: white;
+    border-radius: 20%;
+}
+.Solds{
+
+    height: 50px;
+    width: 80px;
+    background-color: rgb(75, 225, 97);
+    color: white;
+    border-radius: 20%;
+}

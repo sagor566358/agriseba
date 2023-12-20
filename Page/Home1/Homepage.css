@@ -1,0 +1,44 @@
+.homepagemain{
+
+  
+}
+.imagesv{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+   
+ 
+}
+.sellerp{
+
+    height: 100px;
+    width: 100px;
+    color: white;
+    background-color: rgb(216, 117, 12);
+
+    margin-top: 100px;
+    border-radius: 25%;
+}
+.buyerss{
+    height: 100px;
+    width: 100px;
+   color: rgb(255, 255, 255);
+  
+
+   background-color: rgb(165, 157, 42);
+    border-radius: 25%;
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 55px;
+}
+.homehh{
+
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin-left: 20px;
+ 
+   
+   
+}

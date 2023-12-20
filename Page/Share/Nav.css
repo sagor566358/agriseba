@@ -1,0 +1,60 @@
+.nav a{
+
+ margin-right: 20px;
+   font-size: 20px;
+   text-decoration: none;
+   text-align: center;
+   justify-content: center;
+   color: white;
+   margin-top: 28px;
+   
+ 
+   
+  
+}
+a:hover{
+
+    background-color: rgb(16, 244, 100);
+}
+.agrisheba{
+  text-align: center;
+}
+.sheba{
+    color:rgb(237, 211, 14);
+    font-size:30px ;
+    
+}
+.Agri{
+
+      font-size: 60px;
+      margin-left: 35px;
+      color: rgb(92, 226, 43);
+}
+.ppp{
+    margin-left: 50px;
+    text-decoration: none;
+    list-style-type: none;
+}
+.nav{
+
+    background-color: rgb(55, 55, 165);
+    height: 65px;
+    color: white;
+    display: flex;
+    justify-content:space-between;
+  
+   
+   
+   
+   
+   
+
+}
+.navbarmain{
+    text-align: end;
+    margin-top: 15px;
+    margin-left: 20px;
+    padding-right: 30px;
+
+    
+}

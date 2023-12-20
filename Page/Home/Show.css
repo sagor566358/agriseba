@@ -1,0 +1,56 @@
+.show-1{
+
+    height:300px;
+    width:300px;
+}
+.hiresss{
+    margin-left: 20px;
+}
+.hire{
+    height: 50px;
+    width: 70px;
+    background-color: rgb(52, 42, 165);
+    color: white; 
+    margin-left: 30px;
+}
+.hires{
+    height: 50px;
+    width: 70px;
+    background-color: rgb(159, 165, 42);
+    color: white;
+}
+
+
+.mainshow{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+.show-main{
+
+    height: 550px;
+    width:400px;
+    padding: 40px;
+  
+}
+.btn-button{
+
+    background-color: rgb(218, 113, 75);
+    height: 50px;
+    width: 300px;
+    padding: 10px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.logos{
+
+    color: white;
+   
+}
+.cartshow{
+
+    font-size: 25px;
+    padding: 5px;
+}
